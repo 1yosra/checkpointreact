@@ -1,0 +1,12 @@
+.total{
+display: flex;
+flex-direction: column;
+margin:3% 40% ;
+font-family: 'Times New Roman', Times, serif;
+color: rgb(34, 180, 144);
+}
+.butt{
+  background-color: rgb(45, 194, 181) ;
+  color: rgb(41, 37, 37)  ;
+  border-color: rgb(45, 194, 181) ;
+}
